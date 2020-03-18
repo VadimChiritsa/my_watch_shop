@@ -24,6 +24,8 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
+gem 'breadcrumbs_on_rails'
+gem 'meta-tags'
 gem 'activestorage', '~> 5.2'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
